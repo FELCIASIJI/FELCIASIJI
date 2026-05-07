@@ -114,7 +114,6 @@ Designed and developed a reusable Spring Boot Starter Template to streamline mid
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="180em"/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="180em"/>
 </p>
